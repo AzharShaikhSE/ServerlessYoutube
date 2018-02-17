@@ -1,6 +1,6 @@
 ##Serverless Youtube:
 
-#Completely serverless video sharing web-site, complete with:
+Completely serverless video sharing web-site, complete with:
 
 - User authentication
 - Large file video uploads
